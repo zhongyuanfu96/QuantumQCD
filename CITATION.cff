@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Code for: Quantum Quickest Change Detection"
+authors:
+  - family-names: Fu
+    given-names: Zhongyuan
+  - family-names: Johnston
+    given-names: Jeremy
+  - family-names: Wang
+    given-names: Xiaodong
+  - family-names: Venturino
+    given-names: Luca
+repository-code: "https://github.com/zhongyuanfu96/QuantumQCD"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Quantum Quickest Change Detection"
+  authors:
+    - family-names: Fu
+      given-names: Zhongyuan
+    - family-names: Johnston
+      given-names: Jeremy
+    - family-names: Wang
+      given-names: Xiaodong
+    - family-names: Venturino
+      given-names: Luca
+  journal: "npj Quantum Information"
+  year: 2026
